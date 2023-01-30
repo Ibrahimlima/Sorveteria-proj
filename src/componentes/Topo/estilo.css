@@ -1,0 +1,29 @@
+header{
+    width: 100%;
+    padding: 10px 25px;
+    display: flex;
+    background-color: rgb(249,219,121);
+}
+header div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+header img{
+    width: auto;
+    height: 50px;
+}
+header nav{
+    width: 300px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.link-topo{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
